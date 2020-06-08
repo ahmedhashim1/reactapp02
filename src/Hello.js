@@ -3,7 +3,8 @@ import './Hello.css'
 
 
 function Hello({firstName}) {
-    return <p className="myname" >This is para in Hello tag name: {firstName}</p>
+    return <div className="myname">Demo1</div>
+  
 }
 
 // function App(props) {

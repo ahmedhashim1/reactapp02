@@ -6,6 +6,7 @@ import Hello from './Hello'
 function App({name, age}) {
     return <div > The React Basic App assignment by {name}
       <br/>
+      <br/>
       <Hello firstName={name}></Hello>
     </div>
 }
