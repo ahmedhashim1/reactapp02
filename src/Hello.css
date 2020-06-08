@@ -1,7 +1,22 @@
 .myname {
   background-color: blue;
+  color: white;
 }
 
-#ulcircle {
-    list-style-type: circle;
+p {
+  font-size: 20px;
+  font-weight: bold;
+  color: Blue;
+}
+
+ol {
+  font-size: 17px;
+  font-weight: bold;
+  color: #FF4500;
+}
+
+ul {
+  font-size: 17px;
+  font-weight: bold;
+  color: #FFD700;
 }
